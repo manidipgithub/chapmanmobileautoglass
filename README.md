@@ -1,2 +1,0 @@
-# chapmanmobileautoglass
-My awesome repository
